@@ -25,3 +25,37 @@ Happy coding, and may the force of Swift be with you! 🌟
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+#game
+# Quiz: Can you guess the programming language?
+
+Choose the correct answer by clicking on the corresponding link:
+
+1. [JavaScript](#answer-1)
+2. [Python](#answer-2)
+3. [Java](#answer-3)
+4. [C++](#answer-4)
+
+---
+
+### Answer 1
+
+Incorrect! JavaScript is a popular language for web development, but it's not the answer we're looking for. [Try again.](#quiz-can-you-guess-the-programming-language)
+
+---
+
+### Answer 2
+
+Correct! Python is a widely-used programming language known for its readability and ease of use. Congratulations!
+
+---
+
+### Answer 3
+
+Incorrect! Java is a versatile language used in various applications, but it's not the correct answer. [Try again.](#quiz-can-you-guess-the-programming-language)
+
+---
+
+### Answer 4
+
+Incorrect! C++ is a powerful language used in many different fields, but it's not the answer we're looking for. [Try again.](#quiz-can-you-guess-the-programming-language)
+
