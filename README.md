@@ -12,7 +12,7 @@ Feel free to dive into my repositories for a glimpse of my app-tastic adventures
   
 Happy coding, and may the force of Swift be with you! 🌟
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w.t.a.p/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek-nematov-574723191/) 
 
