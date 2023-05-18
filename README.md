@@ -23,4 +23,4 @@ Happy coding, and may the force of Swift be with you! 🌟
 ![](https://github-contributor-stats.vercel.app/api?username=asadbeknematov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://myrandom-meme-generator.glitch.me/" width="512px"/>
+<img src="https://i.pinimg.com/736x/55/79/38/5579387e100ddd96f7ba1d17310bd4c7.jpg" width="512px"/>
