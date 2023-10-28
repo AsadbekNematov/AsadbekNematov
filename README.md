@@ -1,16 +1,20 @@
 # 💫 About Me:
-👋 Hey there! I'm Asadbek, a quirky iOS developer who loves to create flawless and delightful apps while having a blast in the process. 📱💥
-<br>
-When I'm not busy perfecting my Swift ninja skills or making UIKit dance to my tunes, you can find me either exploring the depths of GitHub for hidden treasures 💎, or sharing memes with my fellow coding enthusiasts. 🚀🌌
+👋 Hey there! I'm Asadbek, a dynamic iOS and web developer with a passion for crafting impeccable digital experiences. Whether I'm deep in the world of Swift and UIKit on the mobile side 📱💥 or weaving web wonders with ReactJS, React Native, and AWS on the desktop front, I ensure every line of code is infused with enthusiasm and precision.
 <br>
 
-In my world, coffee ☕ and code go hand in hand, and I firmly believe that if debugging is the art of removing bugs, then programming must be the art of inserting them (just kidding, I strive for bug-free code, I promise! 😉).
-<br> 
- 
-Feel free to dive into my repositories for a glimpse of my app-tastic adventures, and let's connect to share ideas, collaborate, or simply discuss the latest Apple keynotes. 🍏
-<br> 
-  
-Happy coding, and may the force of Swift be with you! 🌟
+When I'm not busy honing my Swift ninja skills or making UIKit groove to my rhythm, I'm diving into the vast universe of web development, embracing the power of ReactJS and cloud magic with AWS. 🌐⚡
+<br>
+
+Away from the screens, you'll catch me delving deep into GitHub, hunting for hidden treasures 💎, or lighting up the coding community with memes and laughter. 🚀🌌
+<br>
+
+In my realm, coffee ☕ pairs perfectly with code, and here's a fun thought: if debugging is all about exterminating bugs, then isn't coding about creating them? Worry not; I'm all in for flawless code, and that's a geek's oath! 😉
+<br>
+
+Take a leap into my repositories and voyage through my app-tastic and web-tacular escapades. Let's link up to exchange thoughts, collaborate, or just geek out over the freshest Apple revelations. 🍏
+<br>
+
+Happy coding, fellow tech enthusiast, and may the force of Swift and React empower your every project! 🌟
 
  
 ## 🌐 Socials:
@@ -21,6 +25,37 @@ Happy coding, and may the force of Swift be with you! 🌟
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asadbeknematov&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# Projects:👇
+
+## AI Interview Prep Platform | [GimmeJob.com](https://gimmejob.com)
+
+<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9e6c02e5-314c-4d56-bbc3-af229b2314a0" width="120">
+
+Developed during the ShellHacks Hackathon, GimmeJob.com is an innovative platform for interview preparation. It integrates OpenAI's ChatGPT-4 for real-time responses and features a Voice-to-Text tool for a realistic interview simulation. With user management powered by Firebase and Firestore, users can track their performance over time. The sleek, user-friendly website, designed with Vite, ReactJS, and Tailwind, offers a seamless experience. Recognized for its potential, the platform received an award from GoDaddy.
+
+> OpenAI ChatGPT-4, Firebase, Vite, Tailwind, Voice-to-Text API, ReactJS
+
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/23b6e568-f0d4-4361-8778-965bfecf0b9a" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/5b7b3ae4-963e-4376-8fdc-6d334d585d04" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/1f0f64c2-f34d-4692-b664-d5abf40e49ed" width="300">
+<br>
+
+<br>
+
+
+## Recipe Generator | [RecipeLab](https://github.com/AsadbekNematov/RecipeLab_v2.0.git)
+
+<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/df25bfce-a5a4-46a8-8c54-0f44dc0da694)" width="120">
+
+Unveiled at the HackaBull Hackathon, RecipeLab revolutionizes how users discover recipes. With a Tinder-inspired swipeable interface developed in React Native, users can effortlessly browse recipes suggested based on pictures of their ingredients. This seamless experience is driven by Google Vision, which identifies ingredients from images, coupled with the Spoonacular API, which curates recipe suggestions accordingly. While the app was originally built using React Native to cater to both Android and iOS users, a post-hackathon enhancement saw its transition to SwiftUI, showcasing flexibility and optimizing performance.
+
+> React Native, MongoDB, Google Vision, Spoonacular API, SwiftUI
+
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/a46c03c2-fd74-44a3-bf42-30b81c88991c" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/15f6a92f-6fa0-4bb3-bd58-396ab2c91ef2" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/25d57977-ef89-4196-a485-88630a60edf6" width="300">
+<br>
+
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9bb98f88-f005-423a-ba21-42bfc907fa63" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/e10b4df8-9c5e-4eb5-8810-8739c0bd0f83" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/ce880968-1b67-4c47-80f4-b03e2a207f67" width="300">
+<br>
+
 
 ### 😂 Random Dev Meme
 <img src="https://i.pinimg.com/736x/55/79/38/5579387e100ddd96f7ba1d17310bd4c7.jpg" width="512px"/>
