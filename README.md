@@ -29,6 +29,7 @@ Happy coding, fellow tech enthusiast, and may the force of Swift and React empow
 # Projects:👇
 
 ## AI Interview Prep Platform | [GimmeJob.com](https://gimmejob.com)
+<a href="https://github.com/AsadbekNematov/gimmejob.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9e6c02e5-314c-4d56-bbc3-af229b2314a0" width="120">
 
@@ -42,7 +43,8 @@ Developed during the ShellHacks Hackathon, GimmeJob.com is an innovative platfor
 <br>
 
 
-## Recipe Generator | [RecipeLab](https://github.com/AsadbekNematov/RecipeLab_v2.0.git)
+## Recipe Generator | RecipeLab
+<a href="https://github.com/AsadbekNematov/RecipeLab_v2.0.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/df25bfce-a5a4-46a8-8c54-0f44dc0da694)" width="120">
 
@@ -62,6 +64,7 @@ Unveiled at the HackaBull Hackathon, RecipeLab revolutionizes how users discover
 
 
 ## Website for Hackathon | [HackJam.dev](https://HackJam.dev)
+<a href="https://github.com/AsadbekNematov/hackjam.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/41f3aac8-7425-4836-9f1f-41e8a94582ab" width="120">
 
@@ -75,7 +78,8 @@ Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a
 <br>
 
 
-## AR App | [Buzz](https://github.com/AsadbekNematov/Buzz.git)
+## Buzz
+<a href="https://github.com/AsadbekNematov/Buzz.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/e60d4ad3-03a9-4628-8916-2ffbfc2e8ac1" width="120">
 
@@ -91,35 +95,33 @@ The project's software dimension was equally groundbreaking. A VR application wa
 <br>
 
 <br>
-![IMG_3070-portrait](
-![IMG_3062-portrait]()
-![IMG_3060-portrait]()![copy_BFB8331C-8EAE-4FA1-8342-C03EF793A8C8]()
-![copy_80644371-96EE-48D5-A0F5-93B56BF34764]()
-![copy_079AFB38-AC5B-4105-8359-E4D043EC8F48]()
 
 
 ## Animations in SwiftUI
 
 
-Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a testament to strategic web design and development. Leading the website development, the team ensured tasks were evenly allocated and issues were promptly resolved. A standout feature is the eye-catching waving animation created with ReactJS and Tailwind, which not only amplified user experience but also drove a surge in interest — the website recorded over 200 hackathon sign-ups, surpassing initial expectations. Behind the scenes, the domain, hackjam.dev, was acquired from name.com, while hosting responsibilities were adeptly managed on Netlify.
+Created animations using SwiftUI
+> SwiftUI, SpriteKit
 
-> ReactJS, Vite, Tailwind, Netlify
-
-<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9bbda304-34cc-4706-b383-d4d7b7406310" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/341624c8-0b84-4bfc-a82d-8955fd57b6e0" width="300">
-### rotation
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/b92063d7-303b-4de3-9f5e-8ad4a424d6ce" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/c5fc5104-7130-4ada-b905-a76161a61f66" width="300">
+### Book Loading
+<a href="https://github.com/AsadbekNematov/BookLoader.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 <br>
 
-<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/1665bd3d-9bcf-46ae-85f1-198e40e353fc" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/f3490dc3-8439-451d-80ac-3cb5ae2a1d31" width="300">
-### rotation
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/a90ce879-620b-4a04-8503-e4927bd3e585" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/dcdb7db8-cc2e-4772-9def-7efbb15f8420" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/98a6a417-9040-4f9d-93f3-f5dfaed22cf9" width="300">
+### Expanding Menu
+<a href="https://github.com/AsadbekNematov/ExpandMenu.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 <br>
 
-<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/96ed3b16-8870-4a7f-84ca-af1a4eb155a7" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/3d1752de-a32d-4a47-8ecf-1249db77759b
-" width="300">
-### rotatio
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/0b2f864f-3128-4b03-aca7-f694f6eccb0b" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/4b89e517-84df-46df-b646-196c89ffa024" width="300">
+
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/2e10634b-ba0f-4cfe-b8d5-78f1eddaa5f9" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/eb6141f5-8c50-44e9-8af6-e43c6d829a3f" width="300">
+### Light It Up
+<a href="https://github.com/AsadbekNematov/LightUp.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 <br>
 
 <br>
 
 
-### 😂 Random Dev Meme
-<img src="https://i.pinimg.com/736x/55/79/38/5579387e100ddd96f7ba1d17310bd4c7.jpg" width="512px"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w.t.a.p/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek-nematov-574723191/) 
