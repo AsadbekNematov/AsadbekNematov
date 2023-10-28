@@ -20,10 +20,10 @@ Happy coding, fellow tech enthusiast, and may the force of Swift and React empow
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w.t.a.p/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek-nematov-574723191/) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asadbeknematov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Projects:👇
@@ -46,6 +46,8 @@ Developed during the ShellHacks Hackathon, GimmeJob.com is an innovative platfor
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/df25bfce-a5a4-46a8-8c54-0f44dc0da694)" width="120">
 
+> ℹ️ Stoped developing until API with high quality recipe images is found.
+
 Unveiled at the HackaBull Hackathon, RecipeLab revolutionizes how users discover recipes. With a Tinder-inspired swipeable interface developed in React Native, users can effortlessly browse recipes suggested based on pictures of their ingredients. This seamless experience is driven by Google Vision, which identifies ingredients from images, coupled with the Spoonacular API, which curates recipe suggestions accordingly. While the app was originally built using React Native to cater to both Android and iOS users, a post-hackathon enhancement saw its transition to SwiftUI, showcasing flexibility and optimizing performance.
 
 > React Native, MongoDB, Google Vision, Spoonacular API, SwiftUI
@@ -54,6 +56,22 @@ Unveiled at the HackaBull Hackathon, RecipeLab revolutionizes how users discover
 <br>
 
 <img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9bb98f88-f005-423a-ba21-42bfc907fa63" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/e10b4df8-9c5e-4eb5-8810-8739c0bd0f83" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/ce880968-1b67-4c47-80f4-b03e2a207f67" width="300">
+<br>
+
+<br>
+
+
+## Website for Hackathon | [HackJam.dev](https://HackJam.dev)
+
+<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/41f3aac8-7425-4836-9f1f-41e8a94582ab" width="120">
+
+Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a testament to strategic web design and development. Leading the website development, the team ensured tasks were evenly allocated and issues were promptly resolved. A standout feature is the eye-catching waving animation created with ReactJS and Tailwind, which not only amplified user experience but also drove a surge in interest — the website recorded over 200 hackathon sign-ups, surpassing initial expectations. Behind the scenes, the domain, hackjam.dev, was acquired from name.com, while hosting responsibilities were adeptly managed on Netlify.
+
+> ReactJS, Vite, Tailwind, Netlify
+
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/520b98b9-3d29-484f-a7bc-0c782420a07f" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/8c108292-70e3-43ab-98eb-b32cbef5569a" width="300">
+<br>
+
 <br>
 
 
