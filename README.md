@@ -75,5 +75,24 @@ Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a
 <br>
 
 
+## AR App | [Buzz](https://github.com/AsadbekNematov/Buzz.git)
+
+<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/e60d4ad3-03a9-4628-8916-2ffbfc2e8ac1" width="120">
+
+For the EGN3000L Foundations of Engineering Lab, a captivating fusion of hardware and software took shape in the form of a Buzz Lightyear VR bot.
+
+Under coordinated leadership, a group of five utilized 3D-printing technology to craft a detailed replica of Buzz Lightyear. Going beyond mere aesthetics, the bot was equipped with remote-control capabilities via Arduino components, showcasing hands-on engineering prowess.
+
+The project's software dimension was equally groundbreaking. A VR application was developed using SwiftUI and ARCore, crafting captivating planetary environments. This virtual reality setting allowed the Buzz Lightyear bot to embark on exploratory journeys, underscoring an innovative blend of the physical and digital worlds.
+
+> Arduino, 3D Printing, ARCore, SwiftUI
+
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/c8c6d023-7fac-46ea-8c98-4de29ca33f70" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/222d97f7-4841-436a-8b64-6ebcf2a52a57" width="300">
+<br>
+
+
+<br>
+
+
 ### 😂 Random Dev Meme
 <img src="https://i.pinimg.com/736x/55/79/38/5579387e100ddd96f7ba1d17310bd4c7.jpg" width="512px"/>
