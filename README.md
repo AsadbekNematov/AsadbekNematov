@@ -54,8 +54,7 @@ Unveiled at the HackaBull Hackathon, RecipeLab revolutionizes how users discover
 
 > React Native, MongoDB, Google Vision, Spoonacular API, SwiftUI
 
-<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/a46c03c2-fd74-44a3-bf42-30b81c88991c" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/15f6a92f-6fa0-4bb3-bd58-396ab2c91ef2" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/25d57977-ef89-4196-a485-88630a60edf6" width="300">
-<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9bb98f88-f005-423a-ba21-42bfc907fa63" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/e10b4df8-9c5e-4eb5-8810-8739c0bd0f83" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/ce880968-1b67-4c47-80f4-b03e2a207f67" width="300">
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/a46c03c2-fd74-44a3-bf42-30b81c88991c" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/15f6a92f-6fa0-4bb3-bd58-396ab2c91ef2" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/25d57977-ef89-4196-a485-88630a60edf6" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/9bb98f88-f005-423a-ba21-42bfc907fa63" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/e10b4df8-9c5e-4eb5-8810-8739c0bd0f83" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/ce880968-1b67-4c47-80f4-b03e2a207f67" width="300">
 <br>
 
 <br>
