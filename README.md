@@ -61,9 +61,9 @@ Unveiled at the HackaBull Hackathon, RecipeLab revolutionizes how users discover
 
 
 ## Website for Hackathon | [HackJam.dev](https://HackJam.dev)
-<a href="https://github.com/AsadbekNematov/serverless-web-app-on-aws"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
+<a href="https://github.com/AsadbekNematov/hackjam.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
-<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/f981f884-7a37-4401-b34d-86cb90722274" width="120">
+<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/41f3aac8-7425-4836-9f1f-41e8a94582ab" width="120">
 
 Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a testament to strategic web design and development. Leading the website development, the team ensured tasks were evenly allocated and issues were promptly resolved. A standout feature is the eye-catching waving animation created with ReactJS and Tailwind, which not only amplified user experience but also drove a surge in interest — the website recorded over 200 hackathon sign-ups, surpassing initial expectations. Behind the scenes, the domain, hackjam.dev, was acquired from name.com, while hosting responsibilities were adeptly managed on Netlify.
 
@@ -75,9 +75,9 @@ Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a
 <br>
 
 ## [Serverless Web Applicarion on AWS]([https://HackJam.dev](https://greeting.appsonaws.net/))
-<a href="https://github.com/AsadbekNematov/hackjam.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
+<a href="https://github.com/AsadbekNematov/serverless-web-app-on-aws"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
-<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/41f3aac8-7425-4836-9f1f-41e8a94582ab" width="120">
+<img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/f981f884-7a37-4401-b34d-86cb90722274" width="120">
 
 Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a testament to strategic web design and development. Leading the website development, the team ensured tasks were evenly allocated and issues were promptly resolved. A standout feature is the eye-catching waving animation created with ReactJS and Tailwind, which not only amplified user experience but also drove a surge in interest — the website recorded over 200 hackathon sign-ups, surpassing initial expectations. Behind the scenes, the domain, hackjam.dev, was acquired from name.com, while hosting responsibilities were adeptly managed on Netlify.
 
