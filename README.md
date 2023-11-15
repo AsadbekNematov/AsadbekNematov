@@ -74,7 +74,7 @@ Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a
 
 <br>
 
-## [Serverless Web Applicarion on AWS]([https://HackJam.dev](https://greeting.appsonaws.net/))
+## Serverless Web Applicarion on AWS | [greeting.appsonaws.net](https://greeting.appsonaws.net/)
 <a href="https://github.com/AsadbekNematov/serverless-web-app-on-aws"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/f981f884-7a37-4401-b34d-86cb90722274" width="120">
