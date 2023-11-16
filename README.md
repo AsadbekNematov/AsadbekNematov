@@ -79,12 +79,13 @@ Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a
 
 <img class="logo" src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/f981f884-7a37-4401-b34d-86cb90722274" width="120">
 
-Launched for the HackJam Hackathon orchestrated by SHPE, hackjam.dev stands as a testament to strategic web design and development. Leading the website development, the team ensured tasks were evenly allocated and issues were promptly resolved. A standout feature is the eye-catching waving animation created with ReactJS and Tailwind, which not only amplified user experience but also drove a surge in interest — the website recorded over 200 hackathon sign-ups, surpassing initial expectations. Behind the scenes, the domain, hackjam.dev, was acquired from name.com, while hosting responsibilities were adeptly managed on Netlify.
+This project involves creating a serverless web application hosted on Amazon Web Services (AWS). The application enables users to perform create, read, update, and delete (CRUD) operations on a DynamoDB table through a RESTful API. Key components include AWS Lambda for backend operations, API Gateway for RESTful API interactions, DynamoDB for database services, and S3 for hosting static web files. The project also utilizes CloudFront for efficient content delivery and integrates various AWS services for a comprehensive cloud computing experience. This practical project enhances skills in serverless architecture and cloud computing using AWS.
 
-> ReactJS, Vite, Tailwind, Netlify
+> AWS Lambda, API Gateway, DynamoDB, AWS S3, CloudFront, AWS Cognito
 
-<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/520b98b9-3d29-484f-a7bc-0c782420a07f" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/8c108292-70e3-43ab-98eb-b32cbef5569a" width="300">
+<img src="https://github.com/AsadbekNematov/AsadbekNematov/assets/72589300/957952a4-0d4d-46ba-bb55-cf97c06c419a" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
+
 
 <br>
 
