@@ -16,6 +16,9 @@ Take a leap into my repositories and voyage through my app-tastic and web-tacula
 
 Happy coding, fellow tech enthusiast, and may the force of Swift and React empower your every project! 🌟
 
+[<img src="https://ghchart.rshah.org/asadbeknematov" width="720">](#bottom)
+
+
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w.t.a.p/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek-nematov-574723191/) 
