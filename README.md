@@ -1,33 +1,35 @@
-# A GitHub profile that generates itself
+# 💫 About Me:
+👋 Hey there! I'm Asadbek, a dynamic iOS and web developer with a passion for crafting impeccable digital experiences. Whether I'm deep in the world of Swift and UIKit on the mobile side 📱💥 or weaving web wonders with ReactJS, React Native, and AWS on the desktop front, I ensure every line of code is infused with enthusiasm and precision.
+<br>
 
-> I’m Asadbek, an iOS and web developer building polished products with Swift, UIKit, React, React Native, AWS, and Firebase.
+When I'm not busy honing my Swift ninja skills or making UIKit groove to my rhythm, I'm diving into the vast universe of web development, embracing the power of ReactJS and cloud magic with AWS. 🌐⚡
+<br>
 
-I like profiles that feel intentional: short intro, clear proof of work, and just enough personality to make the page feel human.
+Away from the screens, you'll catch me delving deep into GitHub, hunting for hidden treasures 💎, or lighting up the coding community with memes and laughter. 🚀🌌
+<br>
+
+In my realm, coffee ☕ pairs perfectly with code, and here's a fun thought: if debugging is all about exterminating bugs, then isn't coding about creating them? Worry not; I'm all in for flawless code, and that's a geek's oath! 😉
+<br>
+
+Take a leap into my repositories and voyage through my app-tastic and web-tacular escapades. Let's link up to exchange thoughts, collaborate, or just geek out over the freshest Apple revelations. 🍏
+<br>
+
+Happy coding, fellow tech enthusiast, and may the force of Swift and React empower your every project! 🌟
 
 [<img src="https://ghchart.rshah.org/asadbeknematov" width="720">](#bottom)
 
----
-
-## What I Build
-
-I spend most of my time on mobile and web products, balancing clean UI with reliable implementation. On the iOS side, that usually means Swift and UIKit. On the web side, I work with React, React Native, and AWS-backed apps.
-
-Outside of shipping features, I enjoy exploring GitHub projects, trying new tools, and improving the details that make a profile or product feel finished.
-
 
  
-## Socials
-[LinkedIn](https://linkedin.com/in/asadbek-nematov-574723191/) · [Instagram](https://instagram.com/w.t.a.p/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w.t.a.p/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek-nematov-574723191/) 
 
-## Tech Stack
-<samp>Swift</samp> · <samp>UIKit</samp> · <samp>React</samp> · <samp>React Native</samp> · <samp>AWS</samp> · <samp>Firebase</samp> · <samp>JavaScript</samp> · <samp>Figma</samp>
+## 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## GitHub Stats
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asadbeknematov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-## Selected Projects
+# Projects:👇
 
 ## AI Interview Prep Platform | [GimmeJob.com](https://gimmejob.com)
 <a href="https://github.com/AsadbekNematov/gimmejob.git"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
